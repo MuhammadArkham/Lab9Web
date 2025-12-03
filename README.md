@@ -149,7 +149,7 @@ Menggunakan``` session_start()``` untuk menyimpan status login.
 
 Menu navigasi berubah dinamis (tombol Login berubah jadi Logout jika sudah login).
 
-📸 Screenshot Hasil
+### 📸 Screenshot Hasil
 Berikut adalah tampilan antarmuka aplikasi setelah selesai dikerjakan:
 
 ### 1. Halaman Login
