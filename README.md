@@ -31,7 +31,7 @@ Kelas : TI.24.A.5
         </nav>
 ```
 
-![gambar](foto/01.png)
+![gambar](https://github.com/MuhammadArkham/Lab9Web/blob/main/Screenshot/Screenshot%202025-12-03%20214854.png?raw=true)
 
 2. Buat file baru dengan nama `footer.php`
 
@@ -44,7 +44,7 @@ Kelas : TI.24.A.5
 </html>
 ```
 
-![gambar](foto/02.png)
+![gambar](https://github.com/MuhammadArkham/Lab9Web/blob/main/Screenshot/Screenshot%202025-12-03%20214906.png?raw=true)
 
 3. Buat file baru dengan nama `home.php`
 
@@ -59,7 +59,7 @@ Kelas : TI.24.A.5
 <?php require('footer.php'); ?>
 ```
 
-![gambar](foto/03.png)
+![gambar](https://github.com/MuhammadArkham/Lab9Web/blob/main/Screenshot/Screenshot%202025-12-03%20214913.png?raw=true)
 
 4. Buat file baru dengan nama `about.php`
 
@@ -74,7 +74,7 @@ Kelas : TI.24.A.5
 <?php require('footer.php'); ?>
 ```
 
-![gambar](foto/04.png)
+![gambar](https://github.com/MuhammadArkham/Lab9Web/blob/main/Screenshot/Screenshot%202025-12-03%20214920.png?raw=true)
 
 ## Pertanyaan dan Tugas 
 Implementasikan konsep modularisasi pada kode program praktikum 8 tentang database, sehingga setiap halamannya memiliki template tampilan yang sama. Dan terapkan penggunaan Routing agar project menjadi lebih modular. Gunakan struktur direktory seperti berikut: 
